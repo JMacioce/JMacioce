@@ -1,7 +1,8 @@
 My name is Julian, and I am fascinated by digital tech!
 
 - Currently in 2nd year Computer Science
-- 📝 Focused on currently developing multiple mini-websites for practice while learning javascript
+- ✍️  Currently developing multiple mini-websites for practice while learning javascript
+- 🧠 Currently learning OOP in Java, HTML, CSS, and JavaScript
 - 📩 You can reach me by [email](mailto:jjmacioce@hotmail.com)!
 - ❗️ Ask me about anything [here](https://github.com/JMacioce/JMacioce/issues)!
 - 💗 Check out my [portfolio site](https://jmacioce.github.io/) for my recent projects, my blog articles, and to learn more about me
