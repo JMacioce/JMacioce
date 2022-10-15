@@ -11,6 +11,6 @@ My name is Julian, and I am fascinated by digital tech!
 
 Thank you for your time!
 
-https://github.com/JMacioce/github-readme-stats
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&layout=compact)](https://github.com/JMacioce/github-readme-stats)
 
 [![Julian's github stats](https://github-readme-stats.vercel.app/api?username=JMacioce)](https://github.com/JMacioce/github-readme-stats)
