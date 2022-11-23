@@ -16,4 +16,11 @@ Thank you for your time!
 
 ![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=cobalt)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JMacioce&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&layout=compact" />
+</a>
+
 [![@jmacioce's Holopin board](https://holopin.io/api/user/board?user=jmacioce)](https://holopin.io/@jmacioce)
