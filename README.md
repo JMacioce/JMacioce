@@ -1,4 +1,4 @@
-My name is Julian, I am fascinated by digital tech!
+My name is **Julian**, I am fascinated by digital tech!
 
 - Currently in 2nd year Computer Science
 - ✍️  Currently developing multiple mini-websites for practice while learning javascript
