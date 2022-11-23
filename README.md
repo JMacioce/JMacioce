@@ -1,6 +1,7 @@
 <p align="center"><a href="https://jmacioce.github.io/"><img width="80%" alt="Hello, I'm Julian. I am fascinated by digital technology!" src="./assets/readme-header.png" /></a></p>
 
 <br />
+
 I'm a passionate software developer from Canada 🇨🇦
 
 **About me**
