@@ -1,4 +1,4 @@
-My name is Julian, and I am fascinated by digital tech!
+My name is Julian, I am fascinated by digital tech!
 
 - Currently in 2nd year Computer Science
 - ✍️  Currently developing multiple mini-websites for practice while learning javascript
@@ -16,11 +16,6 @@ Thank you for your time!
 
 ![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=cobalt)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JMacioce&show_icons=true&theme=cobalt" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&layout=compact" />
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Julian's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 [![@jmacioce's Holopin board](https://holopin.io/api/user/board?user=jmacioce)](https://holopin.io/@jmacioce)
