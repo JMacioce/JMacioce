@@ -13,8 +13,7 @@ I'm a passionate software developer from Canada 🇨🇦
 - ❗️ Ask me about anything [here](https://github.com/JMacioce/JMacioce/issues)!
 - 💗 Check out my [portfolio site](https://jmacioce.github.io/) for my recent projects, my blog articles, and to learn more about me
 
-- I'm a lifelong learner and am grateful for the opportunity to grow in the many disciplines that life offers!
-💻 🎹 🎧 🤸‍♂️ 🏋️‍♀️
+- Lifelong learner and am very grateful! 💻 🎹 🎧 🤸‍♂️ 🏋️‍♀️
 
 Thank you for your time!
 
