@@ -12,8 +12,8 @@ My name is Julian, and I am fascinated by digital tech!
 
 Thank you for your time!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&layout=compact)](https://github.com/JMacioce/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Julian's github stats](https://github-readme-stats.vercel.app/api?username=JMacioce)](https://github.com/JMacioce/github-readme-stats)
+![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=radical)
 
 [![@jmacioce's Holopin board](https://holopin.io/api/user/board?user=jmacioce)](https://holopin.io/@jmacioce)
