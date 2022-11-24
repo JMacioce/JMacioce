@@ -6,7 +6,7 @@ I'm a passionate software developer from Canada 🇨🇦
 
 **About me**
 
-- Currently in 2nd year Computer Science
+- 2nd year Computer Science student
 - ✍️ Currently developing multiple mini-websites for practice while learning JavaScript
 - 🧠 Currently learning OOP in Java, and Web Development in HTML, CSS, and JavaScript
 - 📩 You can reach me by [email](mailto:jjmacioce@hotmail.com)!
