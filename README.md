@@ -10,7 +10,7 @@ I'm a passionate software developer from Canada 🇨🇦
 - ✍️ Currently developing multiple mini-websites for practice while learning JavaScript
 - 🧠 Currently learning OOP in Java, and Web Development in HTML, CSS, and JavaScript
 - 📩 You can reach me by [email](mailto:jjmacioce@hotmail.com)!
-- ❗️ Ask me about anything [here](https://github.com/JMacioce/JMacioce/issues)!
+- 💬 Ask me about anything [here](https://github.com/JMacioce/JMacioce/issues)!
 - 💗 Check out my [portfolio site](https://jmacioce.github.io/) for my recent projects, my blog articles, and to learn more about me
 
 - Lifelong learner and am very grateful! 💻 🎹 🎧 🤸‍♂️ 🏋️‍♀️
