@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a passionate software developer from Canada 🇨🇦 <br>
+I'm a passionate software developer from Canada 🇨🇦 <br/>
 
 **About me**
 - ✍️ Currently developing multiple mini-websites for practice while learning JavaScript
