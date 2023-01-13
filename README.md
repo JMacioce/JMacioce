@@ -1,8 +1,6 @@
-<p align="center"><a href="https://jmacioce.github.io/"><img width="70%" height="80%" alt="Hello, I'm Julian. I am fascinated by digital technology!" src="./assets/readme-header.png" /></a></p>
+<p align="center"><a href="https://jmacioce.github.io/"><img width="80%" height="70%" alt="Hello, I'm Julian. I am fascinated by digital technology!" src="./assets/readme-header.png" /></a></p>
 
-<!-- <br /> -->
-
-<p align="center">I'm a <strong>LIFELONG LEARNER</strong> and passionate <strong>SOFTWARE DEVELOPER</strong> from Canada 🇨🇦 </p>
+<p align="center">I'm a <strong>LIFELONG LEARNER</strong> and <strong>PASSIONATE SOFTWARE DEVELOPER</strong> from Canada 🇨🇦 </p>
 <p align="center"><a href=#><img src="./assets/contributions.svg"></a></p>
 
 
