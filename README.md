@@ -2,7 +2,7 @@
 
 <p align="center">I'm a <strong>LIFELONG LEARNER</strong> and <strong>SOFTWARE DEVELOPER</strong> from <strong>CANADA</strong> 🇨🇦 </p><br>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=tokyonight&hide_border=true" alt="Julian's github stats" /> | </a> <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/JMacioce?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=tokyonight&hide_border=true" alt="Julian's github stats" /> | </a> <a href="https://github.com/JMacioce?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 <p align="center"><a href=#><img src="./assets/contributions.svg"></a></p><br>
 <p align="center">**About me**</p>
