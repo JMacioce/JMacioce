@@ -11,6 +11,7 @@
 
 <p align="center">**About me**</p>
 - [📩 Email me here](mailto:jjmacioce@hotmail.com)!<br>
+- <a href="mailto:jjmacioce@hotmail.com" target="_blank">📩 Email me here</a><br>
 <a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask me anything here</a><br>
 💗 Visit my<a href="https://jmacioce.github.io/" target="_blank"> Personal Site here</a> for recent projects, blog articles, and to learn more about me!<br>
 
