@@ -7,7 +7,7 @@
 
 <br />
 
-<p align="center">I'm a passionate software developer from Canada 🇨🇦 </p><br><br>
+<p align="center">I'm a <strong>LIFELONG LEARNER</strong> and passionate <strong>SOFTWARE DEVELOPER</strong> from Canada 🇨🇦 </p><br><br>
 
 <p align="center">**About me**</p>
 - 📩 You can reach me by [email](mailto:jjmacioce@hotmail.com)!<br>
@@ -18,9 +18,6 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=tokyonight&hide_border=true" alt="Julian's github stats" /> | </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-<p align="center">I'm A Lifelong Learner And Am Very Grateful</p>
 
 <!-- [![@jmacioce's Holopin board](https://holopin.io/api/user/board?user=jmacioce)](https://holopin.io/@jmacioce) -->
 
