@@ -20,7 +20,7 @@
 | ------------- | ------------- |
 
 
-<p align="center">I'm A Lifelong Learner and Am Very Grateful</p>
+<p align="center">I'm A Lifelong Learner And Am Very Grateful</p>
 
 <!-- [![@jmacioce's Holopin board](https://holopin.io/api/user/board?user=jmacioce)](https://holopin.io/@jmacioce) -->
 
