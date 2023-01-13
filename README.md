@@ -20,9 +20,9 @@ Thank you for your time!
 
 <!-- [![@jmacioce's Holopin board](https://holopin.io/api/user/board?user=jmacioce)](https://holopin.io/@jmacioce) -->
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+<!-- ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) -->
 
-<a href=#><img src="./assets/contributions.svg"></a>
+<p align="center"><a href=#><img src="./assets/contributions.svg"></a></p>
 
 <p align="center"> 
   Visitor count<br>
