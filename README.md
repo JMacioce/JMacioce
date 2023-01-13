@@ -14,7 +14,7 @@
 - 💬 Ask me about anything [here](https://github.com/JMacioce/JMacioce/issues)!<br>
 - 💗 Visit my [portfolio site](https://jmacioce.github.io/) for my recent projects, my blog articles, and to learn more about me!<br>
 
-<p align="center">- I'm a Lifelong Learner and Am Very Grateful!</p>
+<p align="center">I'm a Lifelong Learner and Am Very Grateful!</p>
 
 <p align="center"><a href=#><img src="./assets/contributions.svg"></a></p>
 
