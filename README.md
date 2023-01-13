@@ -6,7 +6,7 @@
 | ------------- | ------------- |
 <p align="center"><a href=#><img src="./assets/contributions.svg"></a></p>
 <p align="center">**About me**</p>
-<p align="center"><a href="mailto:jjmacioce@hotmail.com" target="_blank">📩 Email me</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask me anything</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jmacioce.github.io/" target="_blank">💗 See my recent projects, blog articles, and learn more about me!</a></p>
+<p align="center"><a href="mailto:jjmacioce@hotmail.com" target="_blank">📩 Email Me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask Me Anything</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://jmacioce.github.io/" target="_blank">💗 See My Projects, Blog, And Learn About Me!</a></p>
 
 <p align="center"> 
   Visitor count<br>
