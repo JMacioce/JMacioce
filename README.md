@@ -18,7 +18,7 @@ Thank you for your time!
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=tokyonight&hide_border=true" alt="Julian's github stats" /> | </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![@jmacioce's Holopin board](https://holopin.io/api/user/board?user=jmacioce)](https://holopin.io/@jmacioce)
+<!-- [![@jmacioce's Holopin board](https://holopin.io/api/user/board?user=jmacioce)](https://holopin.io/@jmacioce) -->
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
@@ -26,5 +26,5 @@ Thank you for your time!
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/jmacioce/count.svg" />
 </p>
