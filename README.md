@@ -10,9 +10,7 @@
 <p align="center">I'm a <strong>LIFELONG LEARNER</strong> and passionate <strong>SOFTWARE DEVELOPER</strong> from Canada 🇨🇦 </p><br><br>
 
 <p align="center">**About me**</p>
-<p align="center"><a href="mailto:jjmacioce@hotmail.com" target="_blank">📩 Email me here</a></p>
-<p align="center"><a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask me anything here</a></p><br>
-<p align="center">💗 Visit my<a href="https://jmacioce.github.io/" target="_blank"> Personal Site here</a> for recent projects, blog articles, and to learn more about me!</p><br>
+<p align="center"><a href="mailto:jjmacioce@hotmail.com" target="_blank">📩 Email me here</a><a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask me anything here</a> 💗 Visit my<a href="https://jmacioce.github.io/" target="_blank"> Personal Site here</a> for recent projects, blog articles, and to learn more about me!</p><br>
 
 <p align="center"><a href=#><img src="./assets/contributions.svg"></a></p>
 
