@@ -11,7 +11,7 @@
 
 <p align="center">**About me**</p>
 - [📩 Email me here](mailto:jjmacioce@hotmail.com)!<br>
-<a href="[url](https://github.com/JMacioce/JMacioce/issues)" target="_blank">💬 Ask me anything here</a><br>
+<a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask me anything here</a><br>
 - [💗 Visit my personal site here](https://jmacioce.github.io/) for my recent projects, my blog articles, and to learn more about me!<br>
 
 <p align="center"><a href=#><img src="./assets/contributions.svg"></a></p>
