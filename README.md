@@ -1,11 +1,10 @@
-<p align="center"><a href="https://jmacioce.github.io/"><img width="80%" height="70%" alt="Hello, I'm Julian. I am fascinated by digital technology!" src="./assets/readme-header.png" /></a></p>
+<p align="center"><a href="https://jmacioce.github.io/"><img width="80%" height="60%" alt="Hello, I'm Julian. I am fascinated by digital technology!" src="./assets/readme-header.png" /></a></p>
 
 <p align="center">I'm a <strong>LIFELONG LEARNER</strong> and <strong>PASSIONATE SOFTWARE DEVELOPER</strong> from Canada 🇨🇦 </p>
-<p align="center"><a href=#><img src="./assets/contributions.svg"></a></p>
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=tokyonight&hide_border=true" alt="Julian's github stats" /> | </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
+<p align="center"><a href=#><img src="./assets/contributions.svg"></a></p>
 <p align="center">**About me**</p>
 <p align="center"><a href="mailto:jjmacioce@hotmail.com" target="_blank">📩 Email me</a>  //<a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask me anything</a>  // <a href="https://jmacioce.github.io/" target="_blank">💗 See my recent projects, blog articles, and learn more about me!</a></p><br>
 
