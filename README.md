@@ -5,9 +5,9 @@
 <p align="center">I'm a passionate software developer from Canada 🇨🇦 </p><br><br>
 
 <p align="center">**About me**</p>
-<p align="center">- 📩 You can reach me by [email](mailto:jjmacioce@hotmail.com)!</p>
-<p align="center">- 💬 Ask me about anything [here](https://github.com/JMacioce/JMacioce/issues)!</p>
-<p align="center">- 💗 Visit my [portfolio site](https://jmacioce.github.io/) for my recent projects, my blog articles, and to learn more about me!</p>
+- 📩 You can reach me by [email](mailto:jjmacioce@hotmail.com)!
+- 💬 Ask me about anything [here](https://github.com/JMacioce/JMacioce/issues)!</p>
+- 💗 Visit my [portfolio site](https://jmacioce.github.io/) for my recent projects, my blog articles, and to learn more about me!<br>
 
 <p align="center">- I'm a Lifelong Learner and am Very Grateful!</p>
 
