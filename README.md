@@ -2,18 +2,14 @@
 
 <br />
 
-I'm a passionate software developer from Canada 🇨🇦 <br><br>
+<p align="center">I'm a passionate software developer from Canada 🇨🇦 </p><br><br>
 
 **About me**
-- ✍️ Currently developing multiple mini-websites for practice while learning JavaScript
-- 🧠 Currently learning OOP in Java, and Web Development in HTML, CSS, and JavaScript
 - 📩 You can reach me by [email](mailto:jjmacioce@hotmail.com)!
 - 💬 Ask me about anything [here](https://github.com/JMacioce/JMacioce/issues)!
-- 💗 Check out my [portfolio site](https://jmacioce.github.io/) for my recent projects, my blog articles, and to learn more about me
+- 💗 Visit my [portfolio site](https://jmacioce.github.io/) for my recent projects, my blog articles, and to learn more about me
 
-- Lifelong learner and am very grateful! 💻 🎹 🎧 🤸‍♂️ 🏋️‍♀️
-
-Thank you for your time!
+- I'm a Lifelong Learner and am vVry Grateful!
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=tokyonight&hide_border=true" alt="Julian's github stats" /> | </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
