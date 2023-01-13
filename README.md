@@ -22,7 +22,7 @@ Thank you for your time!
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="./assets/contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
