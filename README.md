@@ -1,4 +1,4 @@
-<p align="center"><a href="https://jmacioce.github.io/"><img width="90%" height="40%" alt="Hello, I'm Julian. I am fascinated by digital technology!" src="./assets/readme-header.png"/></a></p>
+<p align="center"><a href="https://jmacioce.github.io/"><img width="60%" alt="Hello, I'm Julian. I am fascinated by digital technology!" src="./assets/readme-header.png"/></a></p>
 
 <p align="center">I'm a <strong>LIFELONG LEARNER</strong> and <strong>PASSIONATE SOFTWARE DEVELOPER</strong> from <strong>CANADA</strong> 🇨🇦 </p>
 
