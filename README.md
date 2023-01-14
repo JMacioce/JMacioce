@@ -1,5 +1,13 @@
 <p align="center"><a href="https://jmacioce.github.io/"><img height="60%" alt="Hello, I'm Julian. I am fascinated by digital technology!" src="./assets/readme-header.png"/></a></p>
 
+```yaml
+Hello, I am Julian Macioce
+
+I'm a Software Developer and Lifelong Learner from Canada 🇨🇦
+I am fascinated by digital technology
+```
+---
+
 <p align="center">I'm a <strong>LIFELONG LEARNER</strong> and <strong>SOFTWARE DEVELOPER</strong> from <strong>CANADA</strong> 🇨🇦 </p><br>
 
 | <a href="https://github.com/JMacioce?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=tokyonight&hide_border=true" alt="Julian's github stats" /> | </a> <a href="https://github.com/JMacioce?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
