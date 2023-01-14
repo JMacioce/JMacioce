@@ -1,7 +1,7 @@
 <!-- <p align="center"><a href="https://jmacioce.github.io/"><img height="60%" alt="Hello, I'm Julian. I am fascinated by digital technology!" src="./assets/readme-header.png"/></a></p>
  -->
 ```yaml
-Hello, I am JULIAN MACIOCE and I am fascinated by digital technology
+Hello, I am JULIAN MACIOCE and I am fascinated with digital technology
 
 I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 ```
