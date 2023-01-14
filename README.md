@@ -5,8 +5,6 @@
 | <a href="https://github.com/JMacioce?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JMacioce&show_icons=true&theme=tokyonight&hide_border=true" alt="Julian's github stats" /> | </a> <a href="https://github.com/JMacioce?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacioce&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 > **🐍 Contributions Snake:**
-|<p align="center"><a href="https://github.com/JMacioce#year-list-container"><img src="./assets/contributions.svg"></a></p>|
-|---|
 |![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/output/github-contribution-grid-snake-dark.svg)|
 |---|
 <p align="center"><strong>ABOUT ME</strong></p>
