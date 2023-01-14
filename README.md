@@ -13,7 +13,7 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 
 > **🐍 Activity Snake**:
 
-|![Animation](https://raw.githubusercontent.com/jmacioce/jmacioce/output/github-contribution-grid-snake-dark.svg)|
+|![Animation](https://raw.githubusercontent.com/JMacioce/JMacioce/output/github-contribution-grid-snake-dark.svg)|
 |---|
 
 <p align="center"><strong>ABOUT ME</strong></p>
