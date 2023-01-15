@@ -17,6 +17,8 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 |---|
 [![JMacioce's Activity Snake](https://github.com/JMacioce/JMacioce/actions/workflows/main.yml/badge.svg)](https://github.com/JMacioce/JMacioce/actions/workflows/main.yml)
 
+> **📈 Profile Stats**:
+
 <!-- ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png) -->
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMacioce&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMacioce&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMacioce&theme=github_dark)|
 |---|---|---|
