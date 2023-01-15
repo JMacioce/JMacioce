@@ -18,10 +18,12 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 [![JMacioce's Activity Snake](https://github.com/JMacioce/JMacioce/actions/workflows/main.yml/badge.svg)](https://github.com/JMacioce/JMacioce/actions/workflows/main.yml)
 
 <!-- ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png) -->
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMacioce&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JMacioce&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMacioce&theme=github_dark)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMacioce&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMacioce&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMacioce&theme=github_dark)|
 |---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMacioce&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMacioce&theme=github_dark)|
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMacioce&theme=github_dark)|
 ---  
+<!-- |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JMacioce&theme=github_dark&utcOffset=8)| -->
 
 <p align="center"><strong>ABOUT ME</strong></p>
 <p align="center"><a href="mailto:jjmacioce@hotmail.com" target="_blank">📩 Email Me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask Me Anything</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://jmacioce.github.io/" target="_blank">💗 See My Projects, Blog, And Learn About Me!</a></p><br>
