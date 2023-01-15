@@ -1,5 +1,7 @@
 <!-- <p align="center"><a href="https://jmacioce.github.io/"><img height="60%" alt="Hello, I'm Julian. I am fascinated by digital technology!" src="./assets/readme-header.png"/></a></p>
  -->
+ > **👋 Introduction to Julian Macioce**:
+ > 
 ```yaml
 Hello, I am JULIAN MACIOCE and I am fascinated with digital technology
 
