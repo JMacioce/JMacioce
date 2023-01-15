@@ -3,9 +3,9 @@
  > **👋 Introduction to Julian Macioce**:
  > 
 ```yaml
-Hello, I am JULIAN MACIOCE and I am fascinated with digital technology
+Hello, I am JULIAN MACIOCE and I am fascinated with digital technology!
 
-I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
+I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada. 🇨🇦
 ```
 ---
 
