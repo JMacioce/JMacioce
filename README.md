@@ -15,6 +15,7 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 
 |![Animation](https://raw.githubusercontent.com/jmacioce/jmacioce/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)|
 |---|
+[![JMacioce's Activity Snake](https://github.com/JMacioce/JMacioce/actions/workflows/main.yml/badge.svg)](https://github.com/JMacioce/JMacioce/actions/workflows/main.yml)
 
 <p align="center"><strong>ABOUT ME</strong></p>
 <p align="center"><a href="mailto:jjmacioce@hotmail.com" target="_blank">📩 Email Me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask Me Anything</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://jmacioce.github.io/" target="_blank">💗 See My Projects, Blog, And Learn About Me!</a></p><br>
