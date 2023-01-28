@@ -27,10 +27,9 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 |---|---|---|
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMacioce&theme=github_dark" alt="Julian's github stats"/></p>
----
 
 <!-- |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JMacioce&theme=github_dark&utcOffset=8)| -->
-
+---
 > **💬 About Me**:
 <p align="center"><a href="mailto:jjmacioce@hotmail.com" target="_blank">📩 Email Me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask Me Anything</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://jmacioce.github.io/" target="_blank">💗 See My Projects, Blog, And Learn About Me!</a></p><br>
 
