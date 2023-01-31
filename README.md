@@ -24,9 +24,10 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 
 <!-- ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png) -->
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMacioce&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMacioce&langs_count=8&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMacioce&theme=github_dark&langs_count=8)|
-|---|---|---|
+
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMacioce&theme=github_dark" alt="Julian's github stats"/></p>
+|---|---|---|
 
 <!-- |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JMacioce&theme=github_dark&utcOffset=8)| -->
 <!-- ---
