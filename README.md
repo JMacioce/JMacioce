@@ -23,7 +23,7 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 > **:octocat: Profile Stats**:
 
 <!-- ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png) -->
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMacioce&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMacioce&langs_count=8&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMacioce&theme=github_dark&langs_count=8)|![](https://github-readme-streak-stats.herokuapp.com/?user=JMacioce&hide_border=true&theme=dark)||![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JMacioce&layout=compact&langs_count=8&theme=dark)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMacioce&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMacioce&langs_count=8&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMacioce&theme=github_dark&langs_count=8) |![](https://github-readme-streak-stats.herokuapp.com/?user=JMacioce&hide_border=true&theme=dark) ||![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JMacioce&layout=compact&langs_count=8&theme=dark)|
 |---|---|---|---|---|
 
 <!-- <p align="center">
