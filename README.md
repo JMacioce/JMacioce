@@ -39,7 +39,7 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/JMacioce/github-readme-quotes) -->
 ---
 > **💬 About Me**:
-<p align="center"><a href="mailto:jjmacioce@hotmail.com" target="_blank">📩 Email Me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">💬 Ask Me Anything</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://jmacioce.github.io/" target="_blank">💗 See My Projects, Blog, And Learn About Me!</a></p><br>
+<p align="center"><a href="mailto:jjmacioce@hotmail.com" target="_blank">Email Me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/JMacioce/JMacioce/issues" target="_blank">Ask Me Anything</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://jmacioce.github.io/" target="_blank">See My Projects, Blog, And Learn About Me!</a></p><br>
 
 <p align="center"> 
   <strong>VISITOR COUNT:</strong><br><img src="https://profile-counter.glitch.me/jmacioce/count.svg"/>
