@@ -27,7 +27,6 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 
 |![](https://github-readme-streak-stats.herokuapp.com/?user=JMacioce&hide_border=true&theme=dark)|![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JMacioce&layout=compact&langs_count=8&theme=dark)|
 |---|---|
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648f7370779070ae624a6975?variant=dark)](https://roadmap.sh)
 
 <!-- ---
 > **✍️ Favourite Quotes**:
@@ -39,6 +38,9 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 
 <p align="center"> 
   <strong>VISITOR COUNT:</strong><br><img src="https://profile-counter.glitch.me/jmacioce/count.svg"/>
+</p>
+<p align="center"> 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648f7370779070ae624a6975?variant=dark)](https://roadmap.sh)
 </p>
 
 <!-- [![@jmacioce's Holopin board](https://holopin.io/api/user/board?user=jmacioce)](https://holopin.io/@jmacioce) -->
