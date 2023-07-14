@@ -39,7 +39,7 @@ I'm a SOFTWARE DEVELOPER and LIFELONG LEARNER from Canada 🇨🇦
 <p align="center"> 
   <strong>VISITOR COUNT:</strong><br><img src="https://profile-counter.glitch.me/jmacioce/count.svg"/>
 </p>
-<a align="center" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/648f7370779070ae624a6975?variant=dark" alt="roadmap.sh"/></a>
+<a align="center" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/648f7370779070ae624a6975?variant=dark" alt="roadmap.sh"/></a>
 
 <!-- [![@jmacioce's Holopin board](https://holopin.io/api/user/board?user=jmacioce)](https://holopin.io/@jmacioce) -->
 
